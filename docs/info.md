@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+ES UN SUMADOR COMPLETO DE 1 BIT
 
 ## How to test
 
-Explain how to use your project
+CON SEÑALES DE ENTRADA A, B Y C_IN
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+GENERADOR DE SEÑALES Y LEDS
